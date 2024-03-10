@@ -9,8 +9,8 @@ dependencies:
     specifier: ^5.0.12
     version: 5.0.12
   '@fontsource/noto-sans-thai':
-    specifier: ^5.0.12
-    version: 5.0.12
+    specifier: ^5.0.13
+    version: 5.0.13
   '@preline/collapse':
     specifier: ^2.0.2
     version: 2.0.2
@@ -1188,8 +1188,8 @@ packages:
     resolution: {integrity: sha512-NnHQ2wJTITkcD/gg8UHGMqL5CYDg1XXleIk0oSuqzJ8HcX5/o5PgG1NipEgaGDw8RjRm/Pg8SIs6zLtLUGFH/Q==}
     dev: false
 
-  /@fontsource/noto-sans-thai@5.0.12:
-    resolution: {integrity: sha512-/z46pCR05gFTkhaZSUDae+eSWklUsP1kZ7bZ3MNTOnPAQXlH7GD9O2cbKxZvi1KndXeDHTEuao9vMNOEZuR7Kw==}
+  /@fontsource/noto-sans-thai@5.0.13:
+    resolution: {integrity: sha512-NMuBvxA5gl04MI1dFEFh98tYeVXnHShx6r7iXRKHEPQrsqjZVThjfFxhb+iZ1lDwv31OfOs9Lc3hswI5kVyzGw==}
     dev: false
 
   /@ioredis/commands@1.2.0:
