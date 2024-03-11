@@ -21,8 +21,8 @@ dependencies:
     specifier: ^2.0.2
     version: 2.0.2
   '@steveyuowo/vue-hot-toast':
-    specifier: ^1.2.1
-    version: 1.2.1
+    specifier: ^1.2.4
+    version: 1.2.4
   '@tiptap/pm':
     specifier: ^2.2.4
     version: 2.2.4
@@ -2256,8 +2256,8 @@ packages:
     engines: {node: '>=18'}
     dev: true
 
-  /@steveyuowo/vue-hot-toast@1.2.1:
-    resolution: {integrity: sha512-loV0P5VR4T8NA7Em3pO+y9S/tLCe5X7RvHuBjloLPrgZAKob0DZexjPDueXzhVtdJI4JK4x6Fq6jUruKPRdmNA==}
+  /@steveyuowo/vue-hot-toast@1.2.4:
+    resolution: {integrity: sha512-ECD9OdmjYDyP+WP5+rivyW4N1LYQl0edgY3Uv+Iz7ao2qYmj/sUdsB90DOVUvBh8oRS8wEISJZU4jjbreVY9EA==}
     dependencies:
       vue: 3.4.20
     transitivePeerDependencies:
