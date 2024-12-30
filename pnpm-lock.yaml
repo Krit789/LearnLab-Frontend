@@ -12,8 +12,8 @@ importers:
         specifier: ^5.1.0
         version: 5.1.0
       '@fontsource/noto-sans-thai':
-        specifier: ^5.1.0
-        version: 5.1.0
+        specifier: ^5.1.1
+        version: 5.1.1
       '@preline/collapse':
         specifier: ^2.5.0
         version: 2.5.0
@@ -997,8 +997,8 @@ packages:
   '@fontsource/bai-jamjuree@5.1.0':
     resolution: {integrity: sha512-iL5v55PS6josNJNm4xkDqcaY57E0SG5JXRFsPf+2YEVxZ3QpYJGwhcGvKjbAw8wKGIPl00sBYaSn0nSTz/ZeRA==}
 
-  '@fontsource/noto-sans-thai@5.1.0':
-    resolution: {integrity: sha512-Q2wU2y8uO49t7R7Za/yfanwX+KyvX0LyE9Ecq89Lqz6SIAxKHILfMuT7Z0SLpvpcIsiZJqasKy6iPGkRYQEOWw==}
+  '@fontsource/noto-sans-thai@5.1.1':
+    resolution: {integrity: sha512-t19eQG+kfw3tO1CuLWLP/qiaqc/LtzN5APo8rA4+nDzE98t5fQObFp4SA0yVel4mg7SjzJ048LBRqAmseElFRw==}
 
   '@humanfs/core@0.19.0':
     resolution: {integrity: sha512-2cbWIHbZVEweE853g8jymffCA+NCMiuqeECeBBLm8dg2oFdjuGJhgN4UAbI+6v0CKbbhvtXA4qV8YR5Ji86nmw==}
@@ -5884,7 +5884,7 @@ snapshots:
 
   '@fontsource/bai-jamjuree@5.1.0': {}
 
-  '@fontsource/noto-sans-thai@5.1.0': {}
+  '@fontsource/noto-sans-thai@5.1.1': {}
 
   '@humanfs/core@0.19.0': {}
 
