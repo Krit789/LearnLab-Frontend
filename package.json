@@ -12,7 +12,7 @@
     },
     "dependencies": {
         "@fontsource/bai-jamjuree": "^5.1.0",
-        "@fontsource/noto-sans-thai": "^5.1.0",
+        "@fontsource/noto-sans-thai": "^5.1.1",
         "@preline/collapse": "^2.5.0",
         "@preline/dropdown": "^2.5.0",
         "@preline/overlay": "^2.5.0",
